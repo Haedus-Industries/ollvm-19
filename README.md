@@ -1,5 +1,3 @@
-Code from https://github.com/DreamSoule/ollvm17/issues/38
-
 # Build
 
 ```shell
@@ -14,3 +12,14 @@ cmake -G Ninja \
 ninja -j6
 ninja install
 ```
+
+Also goes for windows
+
+~~I hate msvc~~
+
+# Credits
+[OLLVM17](https://github.com/DreamSoule/ollvm17)
+
+[OLLVM17#38](https://github.com/DreamSoule/ollvm17/issues/38)
+
+[LLVM_PROJECT](https://github.com/llvm/llvm-project)
